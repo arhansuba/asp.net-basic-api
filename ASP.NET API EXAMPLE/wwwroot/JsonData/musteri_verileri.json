@@ -1,0 +1,49 @@
+﻿[
+  {
+    "MusteriId": 1,
+    "Ad": "Ahmet",
+    "Soyad": "Yılmaz",
+    "SirketAdi": "ABC Şirketi",
+    "DogumTarihi": "1985-03-15",
+    "Cinsiyet": "Erkek",
+    "TCKimlikNo": "12345678901",
+    "Email": "ahmet@example.com",
+    "Telefon": "555-123-4567",
+    "Adres": "Örnek Adres Sokak No:123",
+    "Sehir": "İstanbul",
+    "PostaKodu": "34000",
+    "Ulke": "Türkiye",
+    "OzetNotlar": "Örnek notlar buraya eklenebilir",
+    "MusteriTipi": "Kurumsal"
+  },
+  {
+    "MusteriId": 2,
+    "Ad": "Ada",
+    "Soyad": "Kaya",
+    "DogumTarihi": "1990-07-22",
+    "Cinsiyet": "Kadın",
+    "Email": "ayse@example.com",
+    "Telefon": "555-987-6543",
+    "Adres": "Başka Bir Adres Sokak No:456",
+    "Sehir": "Ankara",
+    "PostaKodu": "06000",
+    "Ulke": "Türkiye",
+    "OzetNotlar": "Ayşe'nin özel notları buraya eklenebilir",
+    "MusteriTipi": "Bireysel"
+  },
+  {
+    "MusteriId": 3,
+    "Ad": "Fatma",
+    "Soyad": "Demir",
+    "DogumTarihi": "1988-12-10",
+    "Cinsiyet": "Kadın",
+    "Email": "fatma@example.com",
+    "Telefon": "555-111-2222",
+    "Adres": "Başka Bir Adres Sokak No:789",
+    "Sehir": "İzmir",
+    "PostaKodu": "35000",
+    "Ulke": "Türkiye",
+    "OzetNotlar": "",
+    "MusteriTipi": "Bireysel"
+  }
+]

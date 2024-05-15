@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\subas\\source\\repos\\ASP.NET API EXAMPLE\\ASP.NET API EXAMPLE\\wwwroot\\JsonData\\musteri_verileri.json",
+      "PackagePath": "staticwebassets\\JsonData\\musteri_verileri.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASP.NET API EXAMPLE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASP.NET API EXAMPLE.props",
+      "PackagePath": "build\\ASP.NET API EXAMPLE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET API EXAMPLE.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET API EXAMPLE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET API EXAMPLE.props",
+      "PackagePath": "buildTransitive\\ASP.NET API EXAMPLE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

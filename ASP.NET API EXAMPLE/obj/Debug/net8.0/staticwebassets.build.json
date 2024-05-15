@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "F/NsyBMc7DI4m+3CE7fKdJas1NQBFqLRugh2/AdFw7c=",
+  "Source": "ASP.NET API EXAMPLE",
+  "BasePath": "_content/ASP.NET API EXAMPLE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET API EXAMPLE\\wwwroot",
+      "Source": "ASP.NET API EXAMPLE",
+      "ContentRoot": "C:\\Users\\subas\\source\\repos\\ASP.NET API EXAMPLE\\ASP.NET API EXAMPLE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET API EXAMPLE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\subas\\source\\repos\\ASP.NET API EXAMPLE\\ASP.NET API EXAMPLE\\wwwroot\\JsonData\\musteri_verileri.json",
+      "SourceId": "ASP.NET API EXAMPLE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\subas\\source\\repos\\ASP.NET API EXAMPLE\\ASP.NET API EXAMPLE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET API EXAMPLE",
+      "RelativePath": "JsonData/musteri_verileri.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JsonData\\musteri_verileri.json"
+    }
+  ]
+}

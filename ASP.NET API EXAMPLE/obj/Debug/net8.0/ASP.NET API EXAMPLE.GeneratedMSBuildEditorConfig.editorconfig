@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NET_API_EXAMPLE
+build_property.RootNamespace = ASP.NET_API_EXAMPLE
+build_property.ProjectDir = C:\Users\subas\source\repos\ASP.NET API EXAMPLE\ASP.NET API EXAMPLE\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\subas\source\repos\ASP.NET API EXAMPLE\ASP.NET API EXAMPLE
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/subas/source/repos/ASP.NET API EXAMPLE/ASP.NET API EXAMPLE/Views/Musteris/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/subas/source/repos/ASP.NET API EXAMPLE/ASP.NET API EXAMPLE/Views/Musteris/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/subas/source/repos/ASP.NET API EXAMPLE/ASP.NET API EXAMPLE/Views/Musteris/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/subas/source/repos/ASP.NET API EXAMPLE/ASP.NET API EXAMPLE/Views/Musteris/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/subas/source/repos/ASP.NET API EXAMPLE/ASP.NET API EXAMPLE/Views/Musteris/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzdGVyaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/subas/source/repos/ASP.NET API EXAMPLE/ASP.NET API EXAMPLE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
